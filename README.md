@@ -3,8 +3,8 @@ Evaluación Final Módulo 4 Bootcamp Full Stack Python
 
 ## Diagrama de Clases
 
+%%mermaid
 classDiagram
-
     Vehiculo <|-- Automovil
     Vehiculo <|-- Bicicleta
     Automovil <|-- Particular
