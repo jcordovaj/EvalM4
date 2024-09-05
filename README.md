@@ -3,7 +3,7 @@ Evaluación Final Módulo 4 Bootcamp Full Stack Python
 
 ## Diagrama de Clases
 
-%%mermaid
+```mermaid
 classDiagram
 
     Vehiculo <|-- Automovil
@@ -40,7 +40,7 @@ classDiagram
       String v_cuadro
       int v_nro_radios
     }
-
+```
 ## Otra alternativa
 
 @startuml
