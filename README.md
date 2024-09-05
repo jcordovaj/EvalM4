@@ -117,3 +117,13 @@ Motocicleta (hereda de Bicicleta)
 | - v_nro_radios: int          |
 +-----------------------------+
 
+## Otra prueba
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```  
