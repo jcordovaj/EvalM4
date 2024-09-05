@@ -79,3 +79,41 @@ Automovil <|-- Particular
 Automovil <|-- Carga
 Bicicleta <|-- Motocicleta
 @enduml
+
+## Alternativa 3 TXT
+
+Vehiculo
++-----------------------------+
+| - v_marca: String            |
+| - v_modelo: String           |
+| - v_nro_de_ruedas: int       |
++-----------------------------+
+
+Automovil (hereda de Vehiculo)
++-----------------------------+
+| - v_velocidad: int           |
+| - v_cilindrada: int          |
++-----------------------------+
+
+Particular (hereda de Automovil)
++-----------------------------+
+| - v_puestos: int             |
++-----------------------------+
+
+Carga (hereda de Automovil)
++-----------------------------+
+| - v_carga_kgs: int           |
++-----------------------------+
+
+Bicicleta (hereda de Vehiculo)
++-----------------------------+
+| - tipo_de_bicicleta: String  |
++-----------------------------+
+
+Motocicleta (hereda de Bicicleta)
++-----------------------------+
+| - v_motor: String            |
+| - v_cuadro: String           |
+| - v_nro_radios: int          |
++-----------------------------+
+
