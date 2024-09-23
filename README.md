@@ -72,14 +72,23 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
    ```bash
    pip install -r requirements.txt
 
+3. **Ejecutar la app:**
+   ```bash
+   streamlit run peajes_fs.py
+ 
+3. **Run the app:**
+   ```bash
+   streamlit run peajes_fs.py
+   
+
 ## Historial de cambios
 * **Version 0.8.3 (22/09/2024):**
-  * Completed help and home sections.
+  * Se completaron las secciones de ayuda y de inicio.
 * **Version 0.8.2 (26/08/2024):**
   * Improved PDF and Excel export capabilities.
 * **Version 0.8.1 (20/08/2024):**
   * Improved the functionality of multifilter drill-down.
-  * ... (rest of the changelog)
+  * ...
 
 
 ## Changelog
@@ -89,7 +98,7 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
   * Improved PDF and Excel export capabilities.
 * **Version 0.8.1 (20/08/2024):**
   * Improved the functionality of multifilter drill-down.
-  * ... (rest of the changelog)
+  * ...
 
 
 ## Diagrama de Clases
@@ -208,13 +217,3 @@ Motocicleta (hereda de Bicicleta)
 | - v_nro_radios: int          |
 +-----------------------------+
 
-## Otra prueba
-
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```  
