@@ -98,18 +98,15 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
  
 3. **Run the app:**
    ```bash
-   streamlit run peajes_fs.py
-   
+   streamlit run peajes_fs.py  
 
 ## Historial de cambios
 * **Version 0.8.3 (22/09/2024):**
   * Se completaron las secciones de ayuda y de inicio.
 * **Version 0.8.2 (26/08/2024):**
-  * Improved PDF and Excel export capabilities.
+  * Mejoradas capacidades de exportacion a PDF y Excel.
 * **Version 0.8.1 (20/08/2024):**
-  * Improved the functionality of multifilter drill-down.
-  * ...
-
+  * Se mejoró la funcionalidad de desglose de filtros múltiples.
 
 ## Changelog
 * **Version 0.8.3 (22/09/2024):**
@@ -119,7 +116,6 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
 * **Version 0.8.1 (20/08/2024):**
   * Improved the functionality of multifilter drill-down.
   * ...
-
 
 ## Diagrama de Clases
 
