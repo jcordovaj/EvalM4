@@ -39,14 +39,23 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
     * Python (version 3.10 o superior)
     * Librerías requeridas:
         -sqlite3     ==> BBDD
+      
         -pandas      ==> librería para el manejo de datos
+
         -streamlit   ==> librería que permite construir la interfaz 
+
         -random      ==> generación de cadenas aleatorias
+
         -string      ==> manejo de cadenas
+
         -datetime    ==> manejo de fechas
+
         -BytesIO     ==> para generar el archivo binario y exportar PDF
+
         -ExcelWriter ==> para exportar EXCEL
+
         -FPDF        ==> para generar PDF
+
         -datetime    ==> retornar una fecha, manipulación y conversión de fechas
 
 ## Getting Started
@@ -54,14 +63,23 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
     * Python (version 3.10 or above)
     * Required libraries:
         -sqlite3 ==> DB
+    
         -pandas ==> library for data management
+
         -streamlit ==> library that allows building the interface
+
         -random ==> generation of random strings
+
         -string ==> string management
+
         -datetime ==> date management
+
         -BytesIO ==> to generate the binary file and export PDF
+
         -ExcelWriter ==> to export EXCEL
+
         -FPDF ==> to generate PDF
+
         -datetime ==> return a date, date manipulation and conversion
 
 2. **Instalacion:**
