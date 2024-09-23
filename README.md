@@ -38,6 +38,7 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
 1. **Prerequisitos:**
     * Python (version 3.10 o superior)
     * Librerías requeridas:
+
         -sqlite3     ==> BBDD
       
         -pandas      ==> librería para el manejo de datos
@@ -62,6 +63,7 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
 1. **Prerequisites:**
     * Python (version 3.10 or above)
     * Required libraries:
+
         -sqlite3 ==> DB
     
         -pandas ==> library for data management
