@@ -26,18 +26,15 @@ Historial de versiones:
     0.7.0 (20/08/2024): Se modifica la estructura de las tablas para mejorar y robustecer validaciones.
     0.8.1 (20/08/2024): Se mejora la funcionalidad de multifiltro drill-down.
     0.8.2 (26/08/2024): Se mejora la capacidad de exportar resultados a formatos PDF y EXCEL.
-    0.8.3 (22/09/2024): Se completan las secciones de ayuda u home, que sólo estaban como maquetas de diagramación.
-    
-    
-    
-    
+    0.8.3 (22/09/2024): Se completan las secciones de ayuda o home, que sólo estaban como maquetas de diagramación.
+
 Próximas mejoras planeadas:    
 
     1) Agregar un dashboard con los ingresos y otros estadígrafos como vehículos por tipo u hora y día
        de mayor tráfico.
     2) Agregar un buscador de reportes históricos, que permita buscar un comprobante de cobro o una consulta guardada en alguno de los formatos de salida.   
 
-Errores conocidos y walkarounds:
+Errores conocidos y workarounds:
     1) Modificar un registro existente, no hace el update en la BBDD, prioridad baja, es un adicional.
     2) Modificar una tarifa existente, no hace el update en la BBDD, prioridad baja, es un adicional.
 
@@ -73,7 +70,7 @@ GENERALIDADES DEL SISTEMA:
         5) String: Librería del core que permite el manejo de cadenas
         6) Datetime: Librería del core que permite el manejo de fechas
         7) IO y BytesIO: Librería del core para generar archivos binarios (exportar PDF)
-        8) ExcelWriter: Librería de Pandas para exportar a EXCEL
+        8) ExcelWriter: Librería de Pandas para exportar a EXCEL # Esta librería no se carga en la versión WEB
         9) FPDF 1.7.2: Librería para generar PDFs
     
 DESCRIPCIÓN POR MÓDULO:
@@ -875,7 +872,7 @@ def pagina_ingreso():
                 pepinillo.close()
     
       
-    # ""Función para mostrar sólo los vehículos que no han sido procesados (where estado_cobro = 0) todos los vehículos almacenados
+    # ''Función para mostrar sólo los vehículos que no han sido procesados (where estado_cobro = 0) todos los vehículos almacenados
     def mostrar_vehiculos():
         '''
         Abre una conexión a la bbdd y realiza una consulta sql
@@ -952,7 +949,7 @@ def pagina_ingreso():
     st.subheader("Vehículos ingresados")
     df_vehiculos = mostrar_vehiculos()
     st.dataframe(df_vehiculos)
-#'    
+#''    
 # *****************************************************************************
 # *************************PAGINA CONSULTA*************************************
 # **********ESTA ES LA PÁGINA PARA REALIZAR VARIOS TIPOS DE CONSULTAS**********
@@ -1143,7 +1140,7 @@ def pagina_consulta():
     pepinillo.close()
 
 
-# '*****************************************************************************
+# ''*****************************************************************************
 # ***************************PAGINA MODIFICAR VEHÍCULO*************************
 # ***********PÁGINA PARA ACTUALIZAR O CORREGIR INFORMACIÓN VEHÍCULOS***********           
 
@@ -1184,7 +1181,7 @@ def f_ejecutar_update(dic_veh_modificado, vehiculo_id, conexion):
         
         # Ejecución del UPDATE
         cursor = conexion.cursor()
-        cursor.executemany(query, campos_valores) # En query le paso los campos que quiero modificar y en la lista valores los 'valores'  
+        cursor.executemany(query, campos_valores) # En query le paso los campos que quiero modificar y en la lista valores los "valores"  
         conexion.commit()
         logging.debug(f"Query ejecutada: {query}")
         logging.debug(f"Valores: {valores}")
@@ -1437,7 +1434,7 @@ def pagina_modificarT():
         else:
             st.error("No se encontró la tarifa con el código proporcionado.")
     
-# *****************************************************************************
+# '*****************************************************************************
 # ****************************PAGINA PROCESO COBRANZA**************************
 # ****SE PROCESAN LAS ALTAS DE VEHÍCULOS EN ESTADO 0, O PENDIENTES DE COBRO****     
 
@@ -1648,7 +1645,7 @@ def pagina_valida():
                 st.error(f"Ocurrió un error inesperado: {str(e)}")
 
 
-#' *****************************************************************************
+#''****************************************************************************
 # *******************************PAGINA DE AYUDA*******************************
 # ****PROVEE INFORMACIÓN AL USUARIO SOBRE EL SISTEMA Y SOLUCIÓN A PROBLEMAS****  
 
