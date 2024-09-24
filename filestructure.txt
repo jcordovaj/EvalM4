@@ -122,6 +122,7 @@
     |-- consulta0908240201.csv
     |-- consulta0908240237.csv
     |-- consulta230920241752.csv
+    |-- consulta2409241030.pdf
     |-- consulta9924Test.pdf
     |-- consultaTest_1809240026.csv
     |-- Recaudacion_check.csv
