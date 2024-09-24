@@ -120,6 +120,7 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
 ## Diagrama de Clases
 
 '''mermaid
+
 classDiagram
     class Vehiculo {
         - v_marca: str
