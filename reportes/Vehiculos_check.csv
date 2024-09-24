@@ -1,0 +1,41 @@
+id,tipo,marca,modelo,nro_ruedas,velocidad,cilindrada,puestos,carga_kgs,tipo_bici,motor,cuadro,nro_radios,estado_cobro,fecha_actualizacion
+1,Particular,Fiat,500,4,100,499,4,,,,,,1,2024-09-07 18:56:50
+2,Particular,Ford,Fiesta,4,160,1600,4,,,,,,1,2024-09-07 18:56:50
+3,Carga,Chevrolet,Cargo,10,120,4000,,8000,,,,,1,2024-09-07 18:56:50
+4,Bicicleta,Oxford,Mountain Bike,2,,,,,Urbana,,,,1,2024-09-07 18:56:50
+5,Motocicleta,Yamaha,YZ250,2,,,,,Carrera,2T,Doble Cuna,24,1,2024-09-07 18:56:50
+6,Particular,Ford,Fiesta,4,180,500,5,,,,,,1,2024-09-07 18:56:50
+7,Particular,Daft Trucks,G 38,10,120,1000,1,,,,,,1,2024-09-07 18:56:50
+8,Motocicleta,MW,KS,2,,,,,Deportiva,2T,Doble Viga,21,1,2024-09-07 18:56:50
+9,Bicicleta,Shimano,MT Ranger,2,,,,,Carrera,,,,1,2024-09-07 18:56:50
+10,Carga,Daft Trucks,G 38,10,120,1000,,0,,,,,1,2024-09-07 18:56:50
+11,Particular,Ford,Fiesta,4,180,500,5,,,,,,1,2024-09-07 18:56:51
+12,Carga,Ford,Cargo 2,10,100,3999,,15000,,,,,1,2024-09-07 18:56:51
+13,Bicicleta,raleigh,2,2,,,,,Urbana,,,,1,2024-09-07 18:56:51
+14,Motocicleta,Honda,XR,2,,,,,Urbana,4T,Doble Viga,21,1,2024-09-07 18:56:51
+15,Carga,JAC,test80,8,160,2400,None,8000,None,None,None,None,1,2024-09-07 18:56:51
+16,Particular,Hyundai,Tucson,4,220,2000,5,None,None,None,None,None,1,2024-09-07 18:56:51
+17,Particular,Citroen,CV2,4,90,500,4,None,None,None,None,None,1,2024-09-07 18:56:51
+18,Particular,Audi,A1,4,240,1400,5,None,None,None,None,None,1,2024-09-07 18:56:51
+19,Particular,Mercedes Benz,SLK230,4,260,2300,2,None,None,None,None,None,1,2024-09-07 18:56:51
+20,Motocicleta,Suzuki,V-STROM 650,2,None,None,None,None,Urbana,4T,Multitubular,24,1,2024-09-07 18:56:51
+21,Motocicleta,BMW,F 800 GS,2,None,None,None,None,Urbana,4T,Doble Cuna,27,1,2024-09-07 18:56:51
+22,Bicicleta,TREK,Montana,2,None,None,None,None,Urbana,None,None,None,1,2024-09-07 18:56:51
+23,Motocicleta,HONDA,CR 250R,2,None,None,None,None,Deportiva,2T,Doble Viga,21,1,2024-09-07 18:56:51
+24,Motocicleta,Yamaha,YZ 250,2,None,None,None,None,Deportiva,2T,Doble Cuna,21,1,2024-09-07 19:45:36
+25,Motocicleta,Yamaha,WR426,2,None,None,None,None,Deportiva,4T,Doble Cuna,21,1,2024-09-07 19:45:36
+26,Particular,Fiat,Benito,4,100,450,4,None,None,None,None,None,1,2024-09-07 20:38:20
+27,Bicicleta,GIANT,Test100,2,None,None,None,None,Urbana,None,None,None,1,2024-09-07 21:10:58
+28,Carga,Ford,Truck20,10,150,5500,None,15000,None,None,None,None,1,2024-09-07 21:29:59
+29,Particular,Audi,TT,4,250,2000,2,None,None,None,None,None,1,2024-09-07 21:46:42
+30,Bicicleta,Bianchi,Benotto,2,None,None,None,None,Urbana,None,None,None,1,2024-09-07 21:59:20
+31,Bicicleta,Oxford,Cleta 2,2,None,None,None,None,Urbana,None,None,None,1,2024-09-07 23:00:33
+32,Particular,Renault,Clio,4,180,1600,5,None,None,None,None,None,1,2024-09-07 23:49:24
+33,Bicicleta,Bianchi,Test9924,2,None,None,None,None,Urbana,None,None,None,1,2024-09-09 11:41:46
+34,Particular,BMW,Z3,4,250,1900,2,None,None,None,None,None,1,2024-09-09 16:46:33
+35,Particular,BMW,Z3,4,250,1900,2,None,None,None,None,None,1,2024-09-09 16:46:35
+36,Particular,BMW,Z3,4,250,1900,2,None,None,None,None,None,1,2024-09-09 16:46:38
+37,Particular,BMW,Z3,4,250,1900,2,None,None,None,None,None,1,2024-09-09 16:46:39
+38,Particular,BMW,Z3,4,250,1900,2,None,None,None,None,None,1,2024-09-09 16:46:40
+39,Carga,JAC,Cargo Test,8,160,4000,None,7500,None,None,None,None,1,2024-09-09 16:47:57
+40,Bicicleta,Oxford,Test cleta,2,None,None,None,None,Urbana,None,None,None,1,2024-09-09 16:48:20

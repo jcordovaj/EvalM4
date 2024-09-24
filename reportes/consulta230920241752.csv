@@ -1,0 +1,11 @@
+id,tipo,marca,modelo,nro_ruedas,velocidad,cilindrada,puestos,carga_kgs,tipo_bici,motor,cuadro,nro_radios,estado_cobro,fecha_actualizacion,fecha_operacion,cobro
+1,Particular,Fiat,500,4,160,500,4,0,,,,0,1,2024-09-19 01:04:32,2024-09-07 18:56:50,1.5
+2,Particular,Ford,Fiesta,4,160,1600,4,0,,,,0,1,2024-09-10,2024-09-07 18:56:50,1.5
+3,Carga,Chevrolet,Cargo,10,120,4000,1,8000,,,,0,1,2024-09-10,2024-09-07 18:56:50,9.75
+6,Particular,Ford,Fiesta,4,180,500,5,0,,,,0,1,2024-09-10,2024-09-07 18:56:50,1.5
+7,Particular,Daft Trucks,G 38,10,120,1000,1,0,,,,0,1,2024-09-10,2024-09-07 18:56:50,1.5
+10,Carga,Daft Trucks,G 38,10,120,1000,1,0,,,,0,1,2024-09-10,2024-09-07 18:56:50,9.75
+11,Particular,Ford,Fiesta,4,180,500,5,0,,,,0,1,2024-09-10,2024-09-07 18:56:51,1.5
+12,Carga,Ford,Cargo 2,10,100,3999,1,15000,,,,0,1,2024-09-10,2024-09-07 18:56:51,9.75
+26,Particular,Fiat,Benito,4,100,450,4,0,,,,0,1,2024-09-10,2024-09-07 20:38:20,1.5
+28,Carga,Ford,Truck20,10,150,5500,1,15000,,,,0,1,2024-09-10,2024-09-07 21:29:59,9.75

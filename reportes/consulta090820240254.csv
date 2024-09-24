@@ -1,0 +1,2 @@
+id,tipo,marca,modelo,nro_ruedas,velocidad,cilindrada,puestos,carga_kgs,tipo_bici,motor,cuadro,nro_radios,estado_cobro,fecha_operacion,cobro
+1,Particular,Fiat,500,4,100,499,4,,,,,,1,2024-09-07 18:56:50,1.5

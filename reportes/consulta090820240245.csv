@@ -1,0 +1,6 @@
+id,tipo,marca,modelo,nro_ruedas,velocidad,cilindrada,puestos,carga_kgs,tipo_bici,motor,cuadro,nro_radios,estado_cobro
+3,Carga,Chevrolet,Cargo,10,120,4000,,8000,,,,,1
+10,Carga,Daft Trucks,G 38,10,120,1000,,0,,,,,1
+12,Carga,Ford,Cargo 2,10,100,3999,,15000,,,,,1
+15,Carga,JAC,test80,8,160,2400,None,8000,None,None,None,None,1
+28,Carga,Ford,Truck20,10,150,5500,None,15000,None,None,None,None,1

@@ -1,0 +1,47 @@
+[
+    {
+        "base_rate": 0.5,
+        "cod_tarifa": "par-001",
+        "id": 1,
+        "overrate_weight": 0.0,
+        "tipo": "Particular",
+        "type_rate": 1.0,
+        "ultima_actualizacion": "2024-09-07 15:43:56"
+    },
+    {
+        "base_rate": 0.5,
+        "cod_tarifa": "car-002",
+        "id": 2,
+        "overrate_weight": 7.25,
+        "tipo": "Carga",
+        "type_rate": 2.0,
+        "ultima_actualizacion": "2024-09-07 15:43:56"
+    },
+    {
+        "base_rate": 0.5,
+        "cod_tarifa": "mot-003",
+        "id": 3,
+        "overrate_weight": 0.0,
+        "tipo": "Motocicleta",
+        "type_rate": 0.5,
+        "ultima_actualizacion": "2024-09-07 15:43:56"
+    },
+    {
+        "base_rate": 0.0,
+        "cod_tarifa": "bic-004",
+        "id": 4,
+        "overrate_weight": 0.0,
+        "tipo": "Bicicleta",
+        "type_rate": 0.0,
+        "ultima_actualizacion": "2024-09-07 15:43:56"
+    },
+    {
+        "base_rate": 0.0,
+        "cod_tarifa": "eme-005",
+        "id": 5,
+        "overrate_weight": 0.0,
+        "tipo": "Emergencia",
+        "type_rate": 0.0,
+        "ultima_actualizacion": "2024-09-07 15:43:56"
+    }
+]

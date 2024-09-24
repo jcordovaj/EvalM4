@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Vehiculos",
+        "seq": 42
+    },
+    {
+        "name": "Tarifario",
+        "seq": 5
+    },
+    {
+        "name": "Recaudacion",
+        "seq": 42
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "cobro": 1.5,
+        "cod_op": "wXZqLHe1",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 1,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "V2lD885F",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 2,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "AuAA2OQ0",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 3,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "UagIX1GT",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 4,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "zzpfaOuw",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 5,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "A1jnonwB",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 6,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "3WhawaWw",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 7,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "ZgyeoPcT",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 8,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "0wsIPvDM",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 9,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "YDZmGIcZ",
+        "fecha_operacion": "2024-09-07 18:56:50",
+        "id": 10,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "lhGIjpAn",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 11,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "KoLkpNw3",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 12,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "XGjBHMLV",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 13,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "xwsiuWTp",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 14,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "VncuT8xC",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 15,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "8Hbdw0LD",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 16,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "Zx8lZE04",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 17,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "vMFKHxjI",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 18,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "imMLRboV",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 19,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "Wb9fYcRk",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 20,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "VhFCoj0R",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 21,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "RKh7M4AS",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 22,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "m2cCS4Mf",
+        "fecha_operacion": "2024-09-07 18:56:51",
+        "id": 23,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "WCuy64E4",
+        "fecha_operacion": "2024-09-07 19:45:36",
+        "id": 24,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 1.0,
+        "cod_op": "aHimqan7",
+        "fecha_operacion": "2024-09-07 19:45:36",
+        "id": 25,
+        "tipo": "Motocicleta"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "D3pMlJE4",
+        "fecha_operacion": "2024-09-07 20:38:20",
+        "id": 26,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "pYHxD3nM",
+        "fecha_operacion": "2024-09-07 21:10:58",
+        "id": 27,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "lOf6PTaS",
+        "fecha_operacion": "2024-09-07 21:29:59",
+        "id": 28,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "VA55eQfr",
+        "fecha_operacion": "2024-09-07 21:46:42",
+        "id": 29,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "wk4e6OGz",
+        "fecha_operacion": "2024-09-07 21:59:20",
+        "id": 30,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "N22V92BD",
+        "fecha_operacion": "2024-09-07 23:00:33",
+        "id": 31,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "Jxyw8wJw",
+        "fecha_operacion": "2024-09-07 23:49:24",
+        "id": 32,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "sWc1gJxg",
+        "fecha_operacion": "2024-09-09 11:57:48",
+        "id": 33,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "so3kEDlw",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 34,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "sDjV0fZh",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 35,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "Y5Wqwdsu",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 36,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "xiCY1RtZ",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 37,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "bFunOKPi",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 38,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 9.75,
+        "cod_op": "8MxBtF2F",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 39,
+        "tipo": "Carga"
+    },
+    {
+        "cobro": 0.0,
+        "cod_op": "EANGyKnA",
+        "fecha_operacion": "2024-09-09 16:48:49",
+        "id": 40,
+        "tipo": "Bicicleta"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "Qw0mTBd4",
+        "fecha_operacion": "2024-09-10 11:23:20",
+        "id": 41,
+        "tipo": "Particular"
+    },
+    {
+        "cobro": 1.5,
+        "cod_op": "VpQ3jV5o",
+        "fecha_operacion": "2024-09-10 11:23:20",
+        "id": 42,
+        "tipo": "Particular"
+    }
+]

@@ -1,0 +1,11 @@
+id,tipo,marca,modelo,nro_ruedas,velocidad,cilindrada,puestos,carga_kgs,tipo_bici,motor,cuadro,nro_radios,estado_cobro,fecha_actualizacion
+5,Motocicleta,Yamaha,YZ250,2,0,0,1,0,Carrera,2T,Doble Cuna,24,1,2024-09-10
+8,Motocicleta,MW,KS,2,0,0,1,0,Deportiva,2T,Doble Viga,21,1,2024-09-10
+14,Motocicleta,Honda,XR,2,0,0,1,0,Urbana,4T,Doble Viga,21,1,2024-09-10
+20,Motocicleta,Suzuki,V-STROM 650,2,0,0,1,0,Urbana,4T,Multitubular,24,1,2024-09-10
+21,Motocicleta,BMW,F 800 GS,2,0,0,1,0,Urbana,4T,Doble Cuna,27,1,2024-09-10
+23,Motocicleta,HONDA,CR 250R,2,0,0,1,0,Deportiva,2T,Doble Viga,21,1,2024-09-10
+24,Motocicleta,Yamaha,YZ 250,2,0,0,1,0,Deportiva,2T,Doble Cuna,21,1,2024-09-10
+25,Motocicleta,Yamaha,WR426,2,0,0,1,0,Deportiva,4T,Doble Cuna,21,1,2024-09-10
+43,Motocicleta,Honda,XR,2,0,0,1,0,Urbana,4T,Doble Cuna,21,1,2024-09-10 18:56:40
+45,Motocicleta,Triumph,F800,2,0,0,1,0,Urbana,4T,Doble Cuna,21,1,2024-09-12 11:44:01
