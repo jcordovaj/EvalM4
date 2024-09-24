@@ -119,42 +119,38 @@ This project, **MVP Peajes FS**, is a Python-based application designed to manag
 
 ## Diagrama de Clases
 
-```mermaid
 classDiagram
+    class Vehiculo {
+        - v_marca: str
+        - v_modelo: str
+        - v_nro_de_ruedas: int
+    }
+
+    class Automovil {
+        - v_velocidad: int
+        - v_cilindrada: int
+    }
+
+    class Particular {
+        - v_puestos: int
+    }
+
+    class Carga {
+        - v_carga_kgs: int
+    }
+
+    class Bicicleta {
+        - tipo_de_bicicleta: str
+    }
+
+    class Motocicleta {
+        - v_motor: str
+        - v_cuadro: str
+        - v_nro_radios: int
+    }
 
     Vehiculo <|-- Automovil
     Vehiculo <|-- Bicicleta
     Automovil <|-- Particular
     Automovil <|-- Carga
     Bicicleta <|-- Motocicleta
-
-    class Vehiculo{
-      - v_marca: str
-      - v_modelo: str
-      - v_nro_de_ruedas: int
-    }
-
-    class Automovil{
-      - v_velocidad: int
-      - v_cilindrada: int
-    }
-
-    class Particular{
-      - v_puestos: int
-    }
-
-    class Carga{
-      - v_carga_kgs: int
-    }
-
-    class Bicicleta{
-      - tipo_de_bicicleta: str
-    }
-
-    class Motocicleta{
-      - v_motor: str 
-      - v_cuadro: str 
-      - v_nro_radios: int
-       
-    }
-```
