@@ -1,0 +1,132 @@
+|-- .devcontainer
+    |-- devcontainer.json
+|-- .gitignore
+|-- assets
+    |-- img
+        |-- acerca001.PNG
+        |-- acerca002.PNG
+        |-- ChequeaInstancias000.PNG
+        |-- ChequeaInstancias001.PNG
+        |-- ChequeaInstancias002.PNG
+        |-- ChequeaInstancias003.PNG
+        |-- ChequeaInstancias004.PNG
+        |-- ChequeaInstancias005.PNG
+        |-- clases_MVP_Peajes.jpg
+        |-- Cobro000.PNG
+        |-- cobro01.PNG
+        |-- cobro02.PNG
+        |-- cobro03.PNG
+        |-- cobro04.PNG
+        |-- cobro05.PNG
+        |-- cobro06.PNG
+        |-- cobro07.PNG
+        |-- cobro08.PNG
+        |-- cobro09.PNG
+        |-- cobro10.PNG
+        |-- cobro11.PNG
+        |-- cobro12.PNG
+        |-- cobro13.PNG
+        |-- cobro14.PNG
+        |-- cobro15.PNG
+        |-- cobro16.PNG
+        |-- cobro17.PNG
+        |-- cobro18.PNG
+        |-- cobro19.PNG
+        |-- cobro20.PNG
+        |-- cobro_otras opciones.png
+        |-- cobro_otras opciones002.png
+        |-- cobro_otras opciones003.png
+        |-- Consultas001.PNG
+        |-- Consultas002.PNG
+        |-- Consultas003.PNG
+        |-- Consultas004.PNG
+        |-- Consultas005.PNG
+        |-- Consultas006.PNG
+        |-- Consultas007.PNG
+        |-- Consultas008.PNG
+        |-- diagrama_clases.PNG
+        |-- diagrama_clases2.PNG
+        |-- diagramclasses.png
+        |-- Ingreso001.PNG
+        |-- Ingreso002.PNG
+        |-- Ingreso003.PNG
+        |-- Ingreso004.PNG
+        |-- Ingreso005.PNG
+        |-- Ingreso006.PNG
+        |-- Ingreso007.PNG
+        |-- Ingreso008.PNG
+        |-- Ingreso009.PNG
+        |-- IngresoVeh001.PNG
+        |-- IngresoVeh002.PNG
+        |-- IngresoVeh003.PNG
+        |-- iniciorapido001.PNG
+        |-- ManualUsuario.PNG
+        |-- ModificaVehiculo.PNG
+        |-- ModificaVehiculo001.PNG
+        |-- ModificaVehiculo002.PNG
+        |-- ModificaVehiculo003.PNG
+        |-- ModificaVehiculo004.PNG
+        |-- ModificaVehiculo005.PNG
+        |-- ModificaVehiculo006.PNG
+        |-- MVPpeajesv0.8.svg
+        |-- peajes-PeajesFS.jpg
+        |-- peajes.jpg
+        |-- Tarifario001.PNG
+        |-- Tarifario002.PNG
+        |-- Tarifario003.PNG
+        |-- Tarifario004.PNG
+        |-- Tarifario005.PNG
+        |-- Tarifario006.PNG
+        |-- Tarifario007.PNG
+        |-- vista_bbdd.PNG
+|-- data
+    |-- Recaudacion.csv
+    |-- Recaudacion.json
+    |-- sqlite_sequence.csv
+    |-- sqlite_sequence.json
+    |-- Tarifario.csv
+    |-- Tarifario.json
+    |-- Vehiculos.csv
+    |-- Vehiculos.json
+    |-- vehiculosBack0910241134.db.sql
+|-- debug.log
+|-- docs
+    |-- diagramas_peajesFS.drawio
+    |-- estructuraBBDD.pdf
+|-- image
+    |-- README
+        |-- 1727163857543.png
+        |-- 1727163936804.png
+|-- peajesFSv0.8.py
+|-- README.md
+|-- reportes
+    |-- 090724_cobros.csv
+    |-- 2024-09-05T04-59_export.csv
+    |-- 2024-09-08T01-59_export.csv
+    |-- 2024-09-08T04-40_export.csv
+    |-- 2024-09-08T05-41_export.csv
+    |-- cobros_procesados.xlsx
+    |-- cobros_procesados090724.pdf
+    |-- cobros_procesados0907241149.csv
+    |-- cobros_procesados0907241150.xlsx
+    |-- cobros_procesados090724_pruebaAudiTT.xlsx
+    |-- cobros_procesados090924Test.pdf
+    |-- cobros_procesados2409240114.xlsx
+    |-- cobros_procesados2409240115.pdf
+    |-- cobros_procesadosTest0912241147.xlsx
+    |-- cobros_procesados_0907241006.csv
+    |-- consulta090820240245.csv
+    |-- consulta090820240253.pdf
+    |-- consulta090820240253.xlsx
+    |-- consulta090820240254.csv
+    |-- consulta0908240201.csv
+    |-- consulta0908240237.csv
+    |-- consulta230920241752.csv
+    |-- consulta9924Test.pdf
+    |-- consultaTest_1809240026.csv
+    |-- Recaudacion_check.csv
+    |-- Vehiculos_check.csv
+|-- requirements.txt
+|-- sql_back
+    |-- Vehiculos.sql
+|-- vehiculos.db
