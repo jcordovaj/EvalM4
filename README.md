@@ -129,32 +129,32 @@ classDiagram
     Bicicleta <|-- Motocicleta
 
     class Vehiculo{
-      String v_marca
-      String v_modelo
-      int v_nro_de_ruedas
+      - v_marca: str
+      - v_modelo: str
+      - v_nro_de_ruedas: int
     }
 
     class Automovil{
-      int v_velocidad
-      int v_cilindrada
+      - v_velocidad: int
+      - v_cilindrada: int
     }
 
     class Particular{
-      int v_puestos
+      - v_puestos: int
     }
 
     class Carga{
-      int v_carga_kgs
+      - v_carga_kgs: int
     }
 
     class Bicicleta{
-      String tipo_de_bicicleta
+      - tipo_de_bicicleta: str
     }
 
     class Motocicleta{
-      + v_motor: str 
-      + v_cuadro: str 
-      + v_nro_radios: int
-      mostrar() 
+      - v_motor: str 
+      - v_cuadro: str 
+      - v_nro_radios: int
+       
     }
 ```
