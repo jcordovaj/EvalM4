@@ -1771,6 +1771,7 @@ def pagina_ayuda():
     st.markdown('1. **Ingreso de vehículos:** Si se vuelve a presionar el botón de "Agregar Vehículo", se vuelve a crear otro objeto identico, no se ha controlado, pero basta con no hacerlo por ahora.')
     st.markdown('2. **Consultas:** Si se define un mismo día, es decir, fecha inicio = fecha final, no retorna resultados, igual para un rango, deja la fecha final fuera. Se produce porque hay fechas largas y cortas y significa limpiar la base o modificar los registros con fechas cortas. Para evitarlo, basta con agregar un día más al filtro.')
     st.markdown('3. **Modificar Vehículo y Modificar Tarifa:** No está realizando el update en la base de datos, es posible que los valores null o vacíos estén provocando el problema, es una funcionalidad opcional. Caso en estudio, prioridad baja.')
+    st.markdown('4. **Librería "ExcelWriter" no instalada:** La versión local de la aplicación, funciona de acuerdo a lo que se indica en los manuales, incluyendo la exportación a los formatos EXCEL, CSV y PDF, sin embargo, **la versión WEB**, indica que la librería "ExcelWriter" no está presente y que debe importarse. Investigando el problema, esta es una 	librería de Pandas, que al parecer genera un conflicto en streamlit, por el manejo del contexto de las variables, objetos y su estado. Hay varias soluciones, como modificar el código importando otra librería más compatible, manejar callbacks, etc., pero por el alcance del MVP, no se implementarán por ahora.')
 
 # ESTRUCTURA DEL MENU
 # *******************
