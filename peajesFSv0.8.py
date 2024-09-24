@@ -1,13 +1,13 @@
 # coding=utf-8
 # Autor               : Jota Cordova (jotacordovaj.io@gmail.com)
 # Fecha de creación   : 16/08/2024
-# Última modificación : 16/09/2024
+# Última modificación : 24/09/2024
 # Versión             : 0.8.0
 
 #******************************************************************************
 #*                                                                            *
 #*              ENTREGA FINAL MÓDULO 4 BOOTCAMP FULL STACK PYTHON             *
-#*                           MVP Peajes FS                                *
+#*                           MVP Peajes FS                                    *
 #*                                                                            *
 #******************************************************************************
 
