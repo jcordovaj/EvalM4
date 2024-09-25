@@ -1173,12 +1173,6 @@ def f_ejecutar_update(dic_veh_modificado, vehiculo_id, conexion):
         placeholders = ', '.join(f"{campo} = :{campo}" for campo in campos_valores)
         query = f"UPDATE vehiculos SET {placeholders}"
 
-        
-        
-        # Ejecutar la consulta utilizando executemany y un diccionario
-        #cursor = conexion.cursor()
-        #cursor.execute(query, campos_valores)
-        
         # Ejecución del UPDATE
         cursor = conexion.cursor()
         cursor.executemany(query, campos_valores) # En query le paso los campos que quiero modificar y en la lista valores los "valores"  
