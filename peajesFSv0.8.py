@@ -1161,12 +1161,6 @@ def f_ejecutar_update(dic_veh_modificado, vehiculo_id, conexion):
         v_fecha_actualizacion = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Se captura la fecha de hoy en formato largo
         dic_veh_modificado['fecha_actualizacion'] = v_fecha_actualizacion    # Se agrega la fecha de la operación al diccionario
 
-        # Construcción dinámica del UPDATE
-        #campos  = ", ".join([f"{campo} = ?" for campo in dic_veh_modificado.keys()]) # Se itera sobre las claves del diccionario para crear una etiqueta y mostrar su contenido 
-        #valores = list(dic_veh_modificado.values())                                  # Lista con los valores del diccionario (lo que queremos modificar)
-        #valores.append(vehiculo_id)                                                  # Se agrega el id del vehículo a la lista valores, que contiene los valores
-        #query = f"UPDATE vehiculos SET {campos} WHERE id = ?"                        # armamos la query con un set que contiene los datos campo
-        
         # Construcción dinámica de la consulta utilizando un diccionario para mapear campos y valores
         campos_valores = {campo: valor for campo, valor in dic_veh_modificado.items()}
         campos_valores['id'] = vehiculo_id  # Agregar el id al diccionario
